@@ -36,4 +36,3 @@ architecture structure of input_selection is
     end case;
     end process;
 end structure;
-
